@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Intro_programacion/funciones",
-        "Intro_programacion/SentenciasDeControl"
+        "Intro_programacion/SentenciasDeControl",
+        "Intro_programacion/Privacidad"
     ]
 }
